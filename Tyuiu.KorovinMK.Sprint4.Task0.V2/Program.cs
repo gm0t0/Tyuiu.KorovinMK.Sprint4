@@ -1,6 +1,6 @@
 ﻿using Tyuiu.KorovinMK.Sprint4.Task0.V2.Lib;
 using static System.Runtime.InteropServices.JavaScript.JSType;
-namespace Tyuiu.Tyuiu.KorovinMK.Sprint4.V2;
+namespace Tyuiu.Tyuiu.KorovinMK.Sprint4.Task0.V2;
 
 class Program
 {
